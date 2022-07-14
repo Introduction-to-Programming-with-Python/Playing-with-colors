@@ -46,4 +46,4 @@ If i want to execute the "crear_matriz_de_pixeles" function I write:
 
     print(visualizar_imagen(crear_matriz_de_pixeles(255,255)))
 
-And execute the [colores.py](/Code/colores.py) file.
+And execute the [colores.py](/code/colores.py) file.
